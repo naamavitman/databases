@@ -1,0 +1,9 @@
+drop table product_donation_details;
+drop table product_donation;
+drop table financial_contribution;
+drop table contribution;
+drop table community_company_product;
+drop table product;
+drop table community_company;
+drop table donor;
+drop table person;
